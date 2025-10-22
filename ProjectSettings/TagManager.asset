@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Audio
+  - NextLevel
   layers:
   - Default
   - TransparentFX
@@ -15,7 +16,7 @@ TagManager:
   - Background
   - Players
   - Foreground
-  - 
+  - Interactibles
   - 
   - 
   - 
@@ -44,6 +45,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1974370011
+    locked: 0
+  - name: Interactibles
+    uniqueID: 882656179
     locked: 0
   - name: Player
     uniqueID: 1802949191
