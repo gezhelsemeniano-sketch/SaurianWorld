@@ -1,0 +1,8 @@
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/DOWNLOAD/UNITY PROJECT/Saurian World/.utmp/RelWithDebInfo/65164c2d/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

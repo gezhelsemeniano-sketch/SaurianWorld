@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\bossshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\bossshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|d:\\download\\unity project\\saurian world\\assets\\codes\\continueornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\continueornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|d:\\download\\unity project\\saurian world\\assets\\codes\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\managers\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\managers\\playerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\stone1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\stone1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Library\\PackageCache\\com.unity.2d.tilemap@089d78c497f7\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@089d78c497f7\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\managers\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\managers\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\menu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\menu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\managers\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\managers\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\menu\\gameoverandstagecomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\menu\\gameoverandstagecomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\menu\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\menu\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\menu\\showonmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\menu\\showonmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58782F28-8167-95EE-985D-E0AAB80F97A9}|Assembly-CSharp-firstpass.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\standard assets\\crossplatforminput\\scripts\\platformspecific\\standaloneinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58782F28-8167-95EE-985D-E0AAB80F97A9}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\crossplatforminput\\scripts\\platformspecific\\standaloneinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\assets\\codes\\showonmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D3D849-3D2F-E297-7E65-59AC43D9B763}|Assembly-CSharp.csproj|solutionrelative:assets\\codes\\showonmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,12 +63,125 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BossShell.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\BossShell.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\BossShell.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\BossShell.cs",
+              "RelativeToolTip": "Assets\\Codes\\BossShell.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwE8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:40:55.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameOverAndStageComplete.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\GameOverAndStageComplete.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\menu\\GameOverAndStageComplete.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\GameOverAndStageComplete.cs",
+              "RelativeToolTip": "Assets\\Codes\\menu\\GameOverAndStageComplete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:14:44.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\managers\\HealthManager.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Codes\\managers\\HealthManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:29:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartMenuController.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\StartMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\menu\\StartMenuController.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\StartMenuController.cs",
+              "RelativeToolTip": "Assets\\Codes\\menu\\StartMenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:30:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowOnMobile.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\ShowOnMobile.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\menu\\ShowOnMobile.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\ShowOnMobile.cs",
+              "RelativeToolTip": "Assets\\Codes\\menu\\ShowOnMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:30:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\menu\\PauseMenu.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\menu\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Codes\\menu\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:30:16.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\managers\\AudioManager.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Codes\\managers\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:30:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VolumeSettings.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\VolumeSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\managers\\VolumeSettings.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\VolumeSettings.cs",
+              "RelativeToolTip": "Assets\\Codes\\managers\\VolumeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:30:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerBehavior.cs",
+              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\PlayerBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Codes\\managers\\PlayerBehavior.cs",
+              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\managers\\PlayerBehavior.cs",
+              "RelativeToolTip": "Assets\\Codes\\managers\\PlayerBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:30:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ContinueOrNot.cs",
               "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\ContinueOrNot.cs",
               "RelativeDocumentMoniker": "Assets\\Codes\\ContinueOrNot.cs",
               "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\ContinueOrNot.cs",
               "RelativeToolTip": "Assets\\Codes\\ContinueOrNot.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAuwFYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwBYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T23:33:08.967Z",
               "EditorCaption": ""
@@ -68,43 +189,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PauseMenu.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\PauseMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Codes\\PauseMenu.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\PauseMenu.cs",
-              "RelativeToolTip": "Assets\\Codes\\PauseMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T12:44:47.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Stone1.cs",
               "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\Stone1.cs",
               "RelativeDocumentMoniker": "Assets\\Codes\\Stone1.cs",
               "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\Stone1.cs",
               "RelativeToolTip": "Assets\\Codes\\Stone1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T15:00:33.546Z"
+              "WhenOpened": "2025-10-17T15:00:33.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShowOnMobile.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\ShowOnMobile.cs",
-              "RelativeDocumentMoniker": "Assets\\Codes\\ShowOnMobile.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\ShowOnMobile.cs",
-              "RelativeToolTip": "Assets\\Codes\\ShowOnMobile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:25:15.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "StandaloneInput.cs",
               "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Standard Assets\\CrossPlatformInput\\Scripts\\PlatformSpecific\\StandaloneInput.cs",
               "RelativeDocumentMoniker": "Assets\\Standard Assets\\CrossPlatformInput\\Scripts\\PlatformSpecific\\StandaloneInput.cs",
@@ -113,67 +210,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T03:12:10.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerBehavior.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\PlayerBehavior.cs",
-              "RelativeDocumentMoniker": "Assets\\Codes\\PlayerBehavior.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\PlayerBehavior.cs",
-              "RelativeToolTip": "Assets\\Codes\\PlayerBehavior.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T02:47:03.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GridEditorUtility.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Library\\PackageCache\\com.unity.2d.tilemap@089d78c497f7\\Editor\\GridEditorUtility.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@089d78c497f7\\Editor\\GridEditorUtility.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Library\\PackageCache\\com.unity.2d.tilemap@089d78c497f7\\Editor\\GridEditorUtility.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@089d78c497f7\\Editor\\GridEditorUtility.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T02:45:34.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VolumeSettings.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\VolumeSettings.cs",
-              "RelativeDocumentMoniker": "Assets\\Codes\\VolumeSettings.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\VolumeSettings.cs",
-              "RelativeToolTip": "Assets\\Codes\\VolumeSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T17:34:47.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Codes\\AudioManager.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Codes\\AudioManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T10:55:06.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StartMenuController.cs",
-              "DocumentMoniker": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\StartMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Codes\\StartMenuController.cs",
-              "ToolTip": "D:\\DOWNLOAD\\UNITY PROJECT\\Saurian World\\Assets\\Codes\\StartMenuController.cs",
-              "RelativeToolTip": "Assets\\Codes\\StartMenuController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T15:12:10.811Z",
-              "EditorCaption": ""
             }
           ]
         }

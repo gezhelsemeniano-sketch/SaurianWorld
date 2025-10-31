@@ -1,8 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.ShaderKeywordFilter;
 using UnityEngine.SceneManagement;
 
 public class ContinueOrNot : MonoBehaviour
@@ -20,10 +18,6 @@ public class ContinueOrNot : MonoBehaviour
     public bool playerIsClose;
     // Update is called once per frame
 
-    private void Start()
-    {
-        OnInteractButtonPressed();
-    }
     void Update()
     {
         OnInteractButtonPressed();
@@ -88,9 +82,17 @@ public class ContinueOrNot : MonoBehaviour
     public void OnYesButton()
     {
         // Load the next scene
-        playerIsClose = false;
-        dialoguePanel.SetActive(false);
-        zeroText();
+        StopAllCoroutines();
+        StartCoroutine(LoadNextScene());
+
+    }
+
+    private IEnumerator LoadNextScene() //Because it keeps crashing, this will be the net
+    {
+        if (dialoguePanel != null)
+            dialoguePanel.SetActive(false);
+
+        yield return null; // wait one frame before loading
         SceneManager.LoadScene("floor 1.2");
     }
     private void OnTriggerEnter2D(Collider2D other)
@@ -117,5 +119,6 @@ public class ContinueOrNot : MonoBehaviour
             zeroText();
         }
     }
+
 
 }

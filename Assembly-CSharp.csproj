@@ -61,14 +61,18 @@
     <Analyzer Include="D:\DOWNLOAD\Unity Downloads\6000.2.6f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Codes\ShowOnMobile.cs" />
+    <Compile Include="Assets\Codes\menu\ShowOnMobile.cs" />
+    <Compile Include="Assets\Codes\BossShell2.cs" />
+    <Compile Include="Assets\Codes\managers\HealthManager.cs" />
+    <Compile Include="Assets\Codes\menu\StartMenuController.cs" />
+    <Compile Include="Assets\Codes\managers\AudioManager.cs" />
+    <Compile Include="Assets\Codes\menu\PauseMenu.cs" />
+    <Compile Include="Assets\Codes\BossShell.cs" />
     <Compile Include="Assets\Codes\Stone1.cs" />
-    <Compile Include="Assets\Codes\PauseMenu.cs" />
-    <Compile Include="Assets\Codes\StartMenuController.cs" />
+    <Compile Include="Assets\Codes\managers\PlayerBehavior.cs" />
+    <Compile Include="Assets\Codes\menu\GameOverAndStageComplete.cs" />
+    <Compile Include="Assets\Codes\managers\VolumeSettings.cs" />
     <Compile Include="Assets\Codes\ContinueOrNot.cs" />
-    <Compile Include="Assets\Codes\AudioManager.cs" />
-    <Compile Include="Assets\Codes\PlayerBehavior.cs" />
-    <Compile Include="Assets\Codes\VolumeSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

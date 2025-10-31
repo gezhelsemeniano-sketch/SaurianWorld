@@ -1,0 +1,23 @@
+# ninja log v5
+20146	29424	7828184957211886	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b75cad7908274fa0
+1572	17784	7828184839076694	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	472215335edac073
+17936	29441	7828184956016869	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c3207a500f4d3910
+3218	20145	7828184849716889	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8264ffa98b94946c
+1	22059	7828184876871519	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7b3fdb752632000d
+22060	25482	7828184914414119	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f3376127af960c4d
+6920	23909	7828184886033506	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f0f628badda4cdef
+4920	24705	7828184904241208	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	54fe88156011bcbb
+8969	25332	7828184911105261	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b68dd79d6e74f250
+25483	29483	7828184955636550	D:/DOWNLOAD/UNITY PROJECT/Saurian World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/65164c2d/obj/arm64-v8a/libswappywrapper.so	c2c3e052c9ae44ea
+29442	30733	7828184970237306	D:/DOWNLOAD/UNITY PROJECT/Saurian World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/65164c2d/obj/arm64-v8a/libgame.so	e00901384cf7870e
+2331	7754	7835933314965183	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b68dd79d6e74f250
+378	8263	7835933315010238	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f0f628badda4cdef
+3228	8763	7835933315951491	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b75cad7908274fa0
+869	9264	7835933316006633	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8264ffa98b94946c
+1359	9267	7835933316983341	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	472215335edac073
+1843	9269	7835933323289179	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7b3fdb752632000d
+8763	9609	7835933333684503	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f3376127af960c4d
+9610	10906	7835933346421405	D:/DOWNLOAD/UNITY PROJECT/Saurian World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/65164c2d/obj/arm64-v8a/libswappywrapper.so	c2c3e052c9ae44ea
+7755	10950	7835933347001541	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	54fe88156011bcbb
+8263	11348	7835933351003824	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c3207a500f4d3910
+11349	12225	7835933359748563	D:/DOWNLOAD/UNITY PROJECT/Saurian World/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/65164c2d/obj/arm64-v8a/libgame.so	e00901384cf7870e

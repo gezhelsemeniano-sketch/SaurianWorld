@@ -1,8 +1,5 @@
 using System.Collections;
-using System.Collections.Generic;
-using UnityEditor.ShaderKeywordFilter;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Stone1 : MonoBehaviour
@@ -17,13 +14,8 @@ public class Stone1 : MonoBehaviour
     public bool playerIsClose;
     // Update is called once per frame
 
-    private void Start()
-    {
-        OnInteractButtonPressed();
-    }
     public void OnInteractButtonPressed()
     {
-        Debug.Log("Interact Button was pressed!");
         if (playerIsClose)
         {
             if (!dialoguePanel.activeInHierarchy && !isTalking)
