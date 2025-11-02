@@ -75,5 +75,4 @@ public class HealthManager : MonoBehaviour
         Debug.Log("STAGE COMPLETE triggered");
         stageCompletePanel.SetActive(true);
     }
-
 }

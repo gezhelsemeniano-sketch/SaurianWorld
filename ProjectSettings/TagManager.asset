@@ -46,14 +46,20 @@ TagManager:
   - name: Background
     uniqueID: 1974370011
     locked: 0
-  - name: Interactibles
-    uniqueID: 882656179
+  - name: Midground
+    uniqueID: 2096132361
+    locked: 0
+  - name: Foreground
+    uniqueID: 2415571811
+    locked: 0
+  - name: Decorations
+    uniqueID: 2150365839
     locked: 0
   - name: Player
     uniqueID: 1802949191
     locked: 0
-  - name: Foreground
-    uniqueID: 2415571811
+  - name: Interactibles
+    uniqueID: 882656179
     locked: 0
   m_RenderingLayers:
   - Default

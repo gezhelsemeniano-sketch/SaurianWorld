@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 56a2f1607ca2f074da2c7869bccebef7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6201573967546096169
+    second: femaleDeath_animation_0
+  - first:
+      213: -2273771999212089613
+    second: femaleDeath_animation_1
+  - first:
+      213: 3078110571698301467
+    second: femaleDeath_animation_2
+  - first:
+      213: -6788008799642671568
+    second: femaleDeath_animation_3
+  - first:
+      213: 6370058530525492656
+    second: femaleDeath_animation_4
+  - first:
+      213: 1189639583341540993
+    second: femaleDeath_animation_5
+  - first:
+      213: -7444626586288651343
+    second: femaleDeath_animation_6
+  - first:
+      213: -6525614684821381643
+    second: femaleDeath_animation_7
+  - first:
+      213: 255626934350929378
+    second: femaleDeath_animation_8
+  - first:
+      213: 1575563620444983271
+    second: femaleDeath_animation_9
+  - first:
+      213: 6479896422691916539
+    second: femaleDeath_animation_10
+  - first:
+      213: -5049059119582098133
+    second: femaleDeath_animation_11
+  - first:
+      213: -8289067748622522235
+    second: femaleDeath_animation_12
+  - first:
+      213: -6702420383943522884
+    second: femaleDeath_animation_13
+  - first:
+      213: 3972651450336947088
+    second: femaleDeath_animation_14
+  - first:
+      213: 3587946271433799485
+    second: femaleDeath_animation_15
+  - first:
+      213: -5186789678527564974
+    second: femaleDeath_animation_16
+  - first:
+      213: -7693464843509742888
+    second: femaleDeath_animation_17
+  - first:
+      213: 1919853709064127296
+    second: femaleDeath_animation_18
+  - first:
+      213: -7611631864597864181
+    second: femaleDeath_animation_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: femaleDeath_animation_0
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 790
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a15e78aaa601650800000000000000
+      internalID: 6201573967546096169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_1
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 711
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fecbb6e960f170e0800000000000000
+      internalID: -2273771999212089613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_2
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 714
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa375a145a7ba20800000000000000
+      internalID: 3078110571698301467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_3
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 668
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036a21d06f52cc1a0800000000000000
+      internalID: -6788008799642671568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_4
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 670
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b53b66cb7ef66850800000000000000
+      internalID: 6370058530525492656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_5
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 673
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f0d7e5e2728010800000000000000
+      internalID: 1189639583341540993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 499
+        width: 332
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b306d6209f5fa890800000000000000
+      internalID: -7444626586288651343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 499
+        width: 332
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd1622b40c5075a0800000000000000
+      internalID: -6525614684821381643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_8
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 499
+        width: 332
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed5209a75b2c8300800000000000000
+      internalID: 255626934350929378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_9
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 499
+        width: 332
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efc6add3c68dd510800000000000000
+      internalID: 1575563620444983271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 333
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa40e7e6773de950800000000000000
+      internalID: 6479896422691916539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 264
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dcc575b732ee9b0800000000000000
+      internalID: -5049059119582098133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 266
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588253cccc057fc80800000000000000
+      internalID: -8289067748622522235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 227
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb585b7fb283cf2a0800000000000000
+      internalID: -6702420383943522884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 229
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b26c13271b12730800000000000000
+      internalID: 3972651450336947088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_15
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 231
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37bff5cf12fac130800000000000000
+      internalID: 3587946271433799485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 61
+        width: 332
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b3b6a442d408b0800000000000000
+      internalID: -5186789678527564974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 332
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d245ae8c725b3590800000000000000
+      internalID: -7693464843509742888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_18
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 43
+        width: 332
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043cb7dc6c0b4aa10800000000000000
+      internalID: 1919853709064127296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: femaleDeath_animation_19
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 50
+        width: 332
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01a995b52d0e5690800000000000000
+      internalID: -7611631864597864181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      femaleDeath_animation_0: 6201573967546096169
+      femaleDeath_animation_1: -2273771999212089613
+      femaleDeath_animation_10: 6479896422691916539
+      femaleDeath_animation_11: -5049059119582098133
+      femaleDeath_animation_12: -8289067748622522235
+      femaleDeath_animation_13: -6702420383943522884
+      femaleDeath_animation_14: 3972651450336947088
+      femaleDeath_animation_15: 3587946271433799485
+      femaleDeath_animation_16: -5186789678527564974
+      femaleDeath_animation_17: -7693464843509742888
+      femaleDeath_animation_18: 1919853709064127296
+      femaleDeath_animation_19: -7611631864597864181
+      femaleDeath_animation_2: 3078110571698301467
+      femaleDeath_animation_3: -6788008799642671568
+      femaleDeath_animation_4: 6370058530525492656
+      femaleDeath_animation_5: 1189639583341540993
+      femaleDeath_animation_6: -7444626586288651343
+      femaleDeath_animation_7: -6525614684821381643
+      femaleDeath_animation_8: 255626934350929378
+      femaleDeath_animation_9: 1575563620444983271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

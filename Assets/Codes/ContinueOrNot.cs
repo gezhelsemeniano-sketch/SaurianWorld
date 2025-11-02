@@ -93,7 +93,7 @@ public class ContinueOrNot : MonoBehaviour
             dialoguePanel.SetActive(false);
 
         yield return null; // wait one frame before loading
-        SceneManager.LoadScene("floor 1.2");
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
     }
     private void OnTriggerEnter2D(Collider2D other)
     {

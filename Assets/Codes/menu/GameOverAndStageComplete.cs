@@ -8,17 +8,40 @@ public class GameOverAndStageComplete : MonoBehaviour
     {
         SceneManager.LoadScene("floor 1");
     }
+    public void OnRestartFloor2Click()
+    {
+        SceneManager.LoadScene("floor 2");
+    }
+    public void OnRestartFloor3Click()
+    {
+        SceneManager.LoadScene("floor 3");
+    }
+    public void OnRestartFloor4Click()
+    {
+        SceneManager.LoadScene("floor 4");
+    }
     public void Home()
     {
         SceneManager.LoadScene("Main Menu");
     }
     public void StageSelection()
     {
-        SceneManager.LoadScene("Stage Selection");
+        SceneManager.LoadScene("Stages");
     }
-    public void NextFloor2Click()
+    public void NextFloorClick()
     {
-        SceneManager.LoadScene("floor 2");
+        UnlockedNewLevel();
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
+    void UnlockedNewLevel()
+    {
+        if (SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
+        {
+            PlayerPrefs.SetInt("ReachedIndex", SceneManager.GetActiveScene().buildIndex + 1);
+            PlayerPrefs.SetInt("UnlockedLevel", PlayerPrefs.GetInt("UnlockedLevel", 1) + 1);
+            PlayerPrefs.Save();
+        }
     }
 }
         

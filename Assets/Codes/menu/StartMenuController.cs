@@ -3,10 +3,16 @@ using UnityEngine.SceneManagement;
 
 public class StartMenuController : MonoBehaviour
 {
-    public void OnStartClick()
+    public void OnStagesClick()
     {
-        SceneManager.LoadScene("floor 1");
-        
+        SceneManager.LoadScene("Stages");
+    }
+
+    public void OnPlayerSelectionClick()
+    {
+        SceneManager.LoadScene("Selection");
+        PlayerPrefs.DeleteAll();
+
     }
 
     // Update is called once per frame

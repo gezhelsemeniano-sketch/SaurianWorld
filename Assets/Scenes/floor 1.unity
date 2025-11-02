@@ -184,7 +184,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 882656179
-  m_SortingLayer: 2
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 5725184139431673129, guid: 4211b93f3b9909a4c96e5be13151a567, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -227,9 +227,14 @@ MonoBehaviour:
   dialoguePanel: {fileID: 511346155}
   dialogueText: {fileID: 1725937627}
   dialogue:
-  - Hello!
-  - Testttt
-  wordSpeed: 0.08
+  - '*You observed the strange rock. Then suddenly, you had a flashback*'
+  - Using the geologic timescale, you determined what era you are in.
+  - You realized you're in Proterozoic Eon, the third major eon in the geologic timescale,
+    coming after the Archean Eon.
+  - In Archean, the Earth had cooled enough for oceans to form, and the first simple
+    life forms began to appear in those waters.
+  - '*You took a piece of the stone using pickaxe.*'
+  wordSpeed: 0
   playerIsClose: 0
 --- !u!70 &470013884
 CapsuleCollider2D:
@@ -513,9 +518,17 @@ MonoBehaviour:
   dialoguePanel: {fileID: 511346155}
   dialogueText: {fileID: 1725937627}
   dialogue:
-  - HOLY AIRBALLLL
-  - 22222
-  wordSpeed: 0.08
+  - '*You observed the strange fossil.*'
+  - In the Proterozoic Eon, life slowly became more complex as the ocean is dominated
+    by bacteria, stromatolites, and first soft-bodied animals known as Ediacaran
+    creatures.
+  - During 635 million years ago, these creatures grew and die in the seafloor.
+  - Some bacteria from this time were fossilized through a process called mineralization,
+    where minerals gradually formed around their cells, preserving them in rock.
+  - Perhaps the reason was because of the condition of the water at the time and
+    the changes in climates, atmosphere, and earth itself.
+  - '*You took a piece of the fossil using pickaxe.*'
+  wordSpeed: 0
   playerIsClose: 0
 --- !u!70 &1119230457
 CapsuleCollider2D:
@@ -551,8 +564,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.7265428, y: 0.7265428}
+  m_Offset: {x: -0.0000003973643, y: -0.10658343}
+  m_Size: {x: 3.5687723, y: 3.9951086}
   m_Direction: 0
 --- !u!61 &1119230458
 BoxCollider2D:
@@ -588,17 +601,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.056108862, y: 0}
+  m_Offset: {x: 0.05610895, y: -0.17763972}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 3.66, y: 3.85}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.836931, y: 1.836931}
+  m_Size: {x: 9.582012, y: 9.582012}
   m_EdgeRadius: 0
 --- !u!212 &1119230459
 SpriteRenderer:
@@ -645,10 +658,10 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 882656179
-  m_SortingLayer: 2
+  m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5725184139431673129, guid: 4211b93f3b9909a4c96e5be13151a567, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: -3065778048180328126, guid: a9a0478327af6be4bb145772d6d79757, type: 3}
+  m_Color: {r: 0.8862745, g: 0.8862745, b: 0.79607844, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -668,7 +681,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.92, y: 0.34, z: 0}
-  m_LocalScale: {x: 1.8747162, y: 1.8747162, z: 1.8747162}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1.8747162}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -754,7 +767,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1879395485
-  m_SortingLayer: 4
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -2789,9 +2802,13 @@ MonoBehaviour:
   dialoguePanel: {fileID: 511346155}
   dialogueText: {fileID: 1725937627}
   dialogue:
-  - AINT NO WAY BRO
-  - Testttt333
-  wordSpeed: 0.08
+  - '*You observed the strange fossil.*'
+  - The Proterozoic Eon extended from 2.5 billion to 541 million years ago and the
+    continent-
+  - rather, a supercontinent called Rodinia was made, but life only started under
+    the ocean.
+  - '*You took a piece of the fossil using pickaxe.*'
+  wordSpeed: 0
   playerIsClose: 0
 --- !u!70 &1798761757
 CapsuleCollider2D:
@@ -2827,8 +2844,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.7265428, y: 0.7265428}
+  m_Offset: {x: 0, y: -0.10658294}
+  m_Size: {x: 3.0713837, y: 3.0713837}
   m_Direction: 0
 --- !u!61 &1798761758
 BoxCollider2D:
@@ -2864,17 +2881,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.056108862, y: 0}
+  m_Offset: {x: 0.056108475, y: 0.00000023841858}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 3.64, y: 2.94}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.836931, y: 1.836931}
+  m_Size: {x: 8.800396, y: 8.800396}
   m_EdgeRadius: 0
 --- !u!212 &1798761759
 SpriteRenderer:
@@ -2921,9 +2938,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 882656179
-  m_SortingLayer: 2
+  m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5725184139431673129, guid: 4211b93f3b9909a4c96e5be13151a567, type: 3}
+  m_Sprite: {fileID: -1188671243612713827, guid: d0e79ba4ff8ae9c4d930dbe065c6c72d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2944,7 +2961,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4, y: 3.68, z: 0}
-  m_LocalScale: {x: 1.8747162, y: 1.8747162, z: 1.8747162}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1.8747162}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -5757,7 +5774,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6886237602593138827, guid: 76507e106dc90a444b6744b854a14601, type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 60
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 9113121293219325834, guid: 76507e106dc90a444b6744b854a14601, type: 3}
       propertyPath: m_Color.a

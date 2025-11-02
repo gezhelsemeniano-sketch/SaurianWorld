@@ -67,12 +67,14 @@
     <Compile Include="Assets\Codes\menu\StartMenuController.cs" />
     <Compile Include="Assets\Codes\managers\AudioManager.cs" />
     <Compile Include="Assets\Codes\menu\PauseMenu.cs" />
+    <Compile Include="Assets\Codes\StoryDialogues.cs" />
     <Compile Include="Assets\Codes\BossShell.cs" />
     <Compile Include="Assets\Codes\Stone1.cs" />
     <Compile Include="Assets\Codes\managers\PlayerBehavior.cs" />
     <Compile Include="Assets\Codes\menu\GameOverAndStageComplete.cs" />
     <Compile Include="Assets\Codes\managers\VolumeSettings.cs" />
     <Compile Include="Assets\Codes\ContinueOrNot.cs" />
+    <Compile Include="Assets\Codes\menu\LevelMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
